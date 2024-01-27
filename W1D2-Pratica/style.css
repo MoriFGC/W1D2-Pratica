@@ -1,0 +1,349 @@
+
+body {
+  background-color: #8080805c;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* HEADER */
+
+.div-logo {
+  background-color: #222f3e;
+}
+.img-logo {
+  width: 180px;
+  padding-left: 1.5%;
+}
+
+.nav {
+  background-color: #354758;
+  height: 30px;
+  padding-top: 5px;
+}
+.a-nav {
+  color: white;
+  padding: 0px 0px 0px 30px;
+  
+}
+
+/* Orange Banner */
+.orange-banner {
+  background-color: #f56600;
+  max-width: 97%;
+  height: 40px;
+  position: relative;
+  left: 2%;
+  right: 2%;
+  margin-top: 50px;
+}
+
+/* HOLIDAY GIFT GUIDES */
+
+.span-banner {
+  color: white;
+  position: absolute;
+  left: 45%;
+  margin-top: 5px;
+}
+
+.Holiday-Gifts {
+  background-image: url(assets/bg-image.png);
+  background-size: contain;
+  max-width: 97%;
+  height: 300px;
+  position: relative;
+  left: 2%;
+  right: 2%;
+  margin-top: 50px;
+}
+
+.Holiday-Gifts h1 {
+  color: white;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Holiday-Gifts span {
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* FIND THE PERFECT GIFTS */
+.Find-gifts {
+  background-color: white;
+  max-width: 97%;
+  height: 650px;
+  position: relative;
+  left: 2%;
+  right: 2%;
+  margin-top: 50px;
+}
+
+.Find-gifts label {
+  padding-left: 1%;
+}
+
+.Find-gifts a {
+    text-decoration: none;
+    color: #017185;
+    padding-left: 10px;
+    font-weight: bold
+}
+
+.gift-divs {
+  display: inline;
+}
+.gift-divs img {
+  width: 22%;
+  border-radius: 10%;
+  height: 530px;
+  padding: 1%;
+}
+ /* EXTRA CONTENT */
+.EXTRA {
+  background-color: #D1D1D1;
+  max-width: 97%;
+  height: 650px;
+  position: relative;
+  left: 2%;
+  right: 2%;
+  margin-top: 50px;
+}
+/* EXTRA DIV GAMING */
+.EXTRA-div {
+  width: 23%;
+  height: 85%;
+  position: relative;
+  background-color: white;
+  top: 5%;
+  left: 2%;
+}
+
+.EXTRA div h3 {
+  position: absolute;
+  bottom: 88%;
+  left: 10%;
+}
+
+.EXTRA div a {
+  position: absolute;
+}
+
+.a-1 {
+  bottom: 54%;
+  left: 8%;
+  text-decoration: none;
+  color: black;
+}
+
+.a-2 {
+  text-decoration: none;
+  color: black;
+  bottom: 54%;
+  left: 58%;
+}
+
+.a-3 {
+  text-decoration: none;
+  color: black;
+  bottom: 12%;
+  left: 8%;
+}
+
+.a-4 {
+  text-decoration: none;
+  color: black;
+  bottom: 12%;
+  left: 58%;
+}
+
+.see-more {
+  bottom: 2%;
+  left: 10%;
+  text-decoration: none ;
+  color: #017185;
+}
+.EXTRA-div img {
+  width: 45%;
+  position: absolute;
+  
+}
+.EXTRA-img-1 {
+  top: 10%;
+  left: 0%;
+}
+
+.EXTRA-img-2 {
+  top: 10%; 
+  right: 0;
+}
+
+.EXTRA-img-3 {
+  bottom: 20%; 
+  left: 0;
+}
+
+.EXTRA-img-4 {
+  bottom: 20%; 
+  right: 0;
+}
+
+/* EXTRA DIV CLOTHES */
+
+.EXTRA-div-2 {
+  width: 23%;
+  height: 85%;
+  position: relative;
+  background-color: white;
+  left: 26%;
+  bottom: 80%;
+}
+
+.EXTRA-div-2 img {
+  width: 40%;
+  height: 30%;
+  position: absolute;
+  padding: 0 4% 0 4%;
+}
+
+#logo-new-1 { 
+  position: absolute;
+  width: 15%;
+  height: 15%;
+  top: 72%;
+  left: 81%;
+}
+
+#logo-new-2 {
+  position: absolute;
+  width: 15%;
+    height: 15%;
+    left: 30%;
+    top: 30%;
+}
+
+/* EXTRA DIV GIFTS */
+
+.EXTRA-div-3 {
+  width: 23%;
+  height: 85%;
+  position: relative;
+  background-color: white;
+  left: 50%;
+  bottom: 165%;
+}
+
+.EXTRA-div-3 img {
+  width: 40%;
+  height: 30%;
+  position: absolute;
+  padding: 0 4% 0 4%;
+}
+
+#logo-new-3 {
+  position: absolute;
+  width: 15%;
+    height: 15%;
+    left: 30%;
+    top: 30%;
+}
+
+/* EXTRA DIV Wishlist */
+
+.EXTRA-div-4 {
+  width: 23%;
+  height: 85%;
+  position: relative;
+  background-color: white;
+  left: 75%;
+  bottom: 250%;
+}
+
+.EXTRA-div-4 img {
+  width: 40%;
+  height: 30%;
+  position: absolute;
+  padding: 0 4% 0 4%;
+}
+
+/* Gaming Banner */
+
+.gaming-banner {
+  background-color: #D1D1D1;
+  max-width: 97%;
+  height: 650px;
+  position: relative;
+  left: 2%;
+  right: 2%;
+  margin-top: 50px;
+}
+
+.gaming-banner img {
+  width: 100%;
+  height: 90%;
+}
+
+.gaming-banner span {
+  position: relative;
+  left: 40%;
+}
+.gaming-banner a {
+  text-decoration: none;
+  color: #017185;
+  padding-left: 20px;
+}
+
+
+/* Sound Banner */
+
+.sound-banner {
+  background-color: #D1D1D1;
+  max-width: 97%;
+  height: 650px;
+  position: relative;
+  left: 2%;
+  right: 2%;
+  margin-top: 50px;
+}
+
+.sound-banner img {
+  width: 100%;
+  height: 90%;
+}
+
+.sound-banner span {
+  position: relative;
+  left: 40%;
+}
+.sound-banner a {
+  text-decoration: none;
+  color: #017185;
+  padding-left: 20px;
+}
+
+/* FOOTER */
+.footer a {
+  color: white;
+ 
+}
+.footer nav {
+  background-color: #354758;
+  height: 40px;
+  padding-top: 10px;
+  text-align: center;
+}
+.footer div {
+  background-color: #222F3E;
+  height: 250px;
+  text-align: center;
+}
+
+.footer div img {
+  position: relative;
+  top: 25%;
+}
