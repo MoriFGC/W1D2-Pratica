@@ -34,16 +34,15 @@ body {
   left: 2%;
   right: 2%;
   margin-top: 50px;
+  text-align: center;
+  padding-top: 10px;
 }
-
-/* HOLIDAY GIFT GUIDES */
 
 .span-banner {
   color: white;
-  position: absolute;
-  left: 45%;
-  margin-top: 5px;
+  
 }
+/* HOLIDAY GIFT GUIDES */
 
 .Holiday-Gifts {
   background-image: url(assets/bg-image.png);
@@ -84,6 +83,11 @@ body {
   margin-top: 50px;
 }
 
+#div-label {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
 .Find-gifts label {
   padding-left: 1%;
 }
@@ -102,8 +106,31 @@ body {
   width: 22%;
   border-radius: 10%;
   height: 530px;
-  padding: 1%;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+#img-1 {
+  position: absolute;
+  top: 12%;
+  left: 1%;
+}
+
+#img-2 {
+  position: absolute;
+  top: 12%;
+  left: 26%;
+}
+
+#img-3 {
+  position: absolute;
+  left: 51%;
+  top: 12%;
+}
+
+#img-4 {
+  position: absolute;
+  left: 76%;
+  top: 12%;  
 }
  /* EXTRA CONTENT */
 .EXTRA {
